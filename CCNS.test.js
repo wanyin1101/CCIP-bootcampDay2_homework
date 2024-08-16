@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// test/CCNS.test.js
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
