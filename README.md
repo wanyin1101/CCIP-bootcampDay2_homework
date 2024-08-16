@@ -1,6 +1,6 @@
 (CCIPLocalSimulator.sol) - Create an instance of CCIPLocalSimulator.sol smart contract.
 
-(CCNS.test.jg) 
+(CCNS.test.js) 
 1. Call the configuration() function to get Router contract address.
 
 2. Create instances of CrossChainNameServiceRegister.sol, CrossChainNameServiceReceiver.sol and CrossChainNameServiceLookup.sol smart contracts and call the enableChain() function where needed.
